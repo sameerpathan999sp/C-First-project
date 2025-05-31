@@ -1,3 +1,3 @@
 # C-First-project
-Author: Sameer Pathan
+Author: Sameer biban Pathan
 <br> This is first repository
